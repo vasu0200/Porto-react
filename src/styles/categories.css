@@ -1,0 +1,33 @@
+.cate-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    /* gap: 1rem; */
+}
+.cate-items{
+    width: 17rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cate-img-container{
+width: 13rem;
+height: 12rem;
+background-color: rgb(166, 162, 162);
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items:center;
+border-top-right-radius: 50%;
+border-top-left-radius: 50%;
+}
+.cate-img{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+}

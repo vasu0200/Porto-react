@@ -1,0 +1,11 @@
+.scroll-btn{
+    position: fixed;
+    bottom: 100%;
+    right: 2rem;
+    background-color: rgb(32, 32, 141);
+    padding: 1rem;
+    width: 8rem;
+    color: white;
+    font-weight: bold;
+    z-index:2;
+}
